@@ -3,6 +3,7 @@ package ro.pub.cs.systems.eim.Colocviu1_2;
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
